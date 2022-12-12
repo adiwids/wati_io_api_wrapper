@@ -1,0 +1,10 @@
+{
+	"result": false,
+	"errors": {
+		"error": "There are no valid Receivers",
+		"invalidWhatsappNumbers": [
+			"contact#0: contact +621111111111 is not valid"
+		],
+		"invalidCustomParameters": []
+	}
+}

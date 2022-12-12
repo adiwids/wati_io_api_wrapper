@@ -1,0 +1,8 @@
+{
+	"result": true,
+	"errors": {
+		"error": "",
+		"invalidWhatsappNumbers": [],
+		"invalidCustomParameters": []
+	}
+}

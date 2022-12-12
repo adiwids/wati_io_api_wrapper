@@ -1,0 +1,8 @@
+{
+	"result": false,
+	"errors": {
+		"error": "Request is null",
+		"invalidWhatsappNumbers": [],
+		"invalidCustomParameters": []
+	}
+}
